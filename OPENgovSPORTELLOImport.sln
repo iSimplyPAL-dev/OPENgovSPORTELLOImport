@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPENgovSPORTELLOImport", "OPENgovSPORTELLOImport\OPENgovSPORTELLOImport.csproj", "{4C804DDA-9EE5-4038-9529-A10D028DF4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportInterface", "ImportInterface\ImportInterface.csproj", "{2BF781A3-594D-40BB-8C10-07222F1DEEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C804DDA-9EE5-4038-9529-A10D028DF4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C804DDA-9EE5-4038-9529-A10D028DF4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C804DDA-9EE5-4038-9529-A10D028DF4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C804DDA-9EE5-4038-9529-A10D028DF4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF781A3-594D-40BB-8C10-07222F1DEEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF781A3-594D-40BB-8C10-07222F1DEEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF781A3-594D-40BB-8C10-07222F1DEEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF781A3-594D-40BB-8C10-07222F1DEEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
